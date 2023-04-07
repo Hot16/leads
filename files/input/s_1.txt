@@ -1,0 +1,27 @@
+2022-03-09 17:38:21
+FIELDS:{"serviceData":{},"rawData":"ФИО: Гаджигасанли Халиг Сабирович. Дата рождения: 16.02.1981. Email: 9272033222@mail.ru. Сумма: 136000. Регион: Самарская обл.. Город: Самара","partnerLeadId":"2640567","partnerWebmasterId":"404","phone":"79272033222"}
+RESPONSE: {"status":"success","inboxLeadId":445168}
+
+2022-03-09 17:38:21
+FIELDS:{"serviceData":{},"rawData":"ФИО: Качурина Ангелина Евгеньевна. Дата рождения: 02.03.1975. Email: dfgghhh@yandex.ru. Сумма: 200000. Регион: Пензенская обл.. Город: Каменка","partnerLeadId":"2640568","partnerWebmasterId":"404","phone":"79250652764"}
+RESPONSE: {"status":"duplicate","inboxLeadId":445169}
+
+2022-03-09 17:38:25
+FIELDS:{"serviceData":{},"rawData":"ФИО: Свиридов Юрий Николаевич. Дата рождения: 14.12.1975. Email: sviridov@yandex.ru. Сумма: 140000. Регион: Краснодарский край. Город: Каневская","partnerLeadId":"0","partnerWebmasterId":"404","phone":"79615309250"}
+RESPONSE: {"status":"duplicate","inboxLeadId":445170}
+
+2022-03-09 17:38:27
+FIELDS:{"serviceData":{},"rawData":"ФИО: Шевченко Александр Викторович. Дата рождения: 21.02.1988. Email: sasacevcenko671@inbox.ru. Сумма: 125000. Регион: Ростовская обл.. Город: Ростов-на-Дону","partnerLeadId":"2640569","partnerWebmasterId":"404","phone":"79281438392"}
+RESPONSE: {"status":"success","inboxLeadId":445171}
+
+2022-03-09 17:38:29
+FIELDS:{"serviceData":{},"rawData":"ФИО: Тубакина Екатерина Николаевна. Дата рождения: 28.07.1990. Email: mail@mailll.ru. Сумма: 100000. Регион: Московская обл.. Город: Москва","partnerLeadId":"2640570","partnerWebmasterId":"404","phone":"79090093208"}
+RESPONSE: {"status":"success","inboxLeadId":445172}
+
+2022-03-09 17:38:29
+FIELDS:{"serviceData":{},"rawData":"ФИО: Андреев Эдуард Александрович. Дата рождения: 19.01.1972. Email: mail@mailll.ru. Сумма: 100000. Регион: Московская обл.. Город: Москва","partnerLeadId":"2640571","partnerWebmasterId":"404","phone":"79533875557"}
+RESPONSE: {"status":"duplicate","inboxLeadId":445173}
+
+2022-03-09 17:38:35
+FIELDS:{"serviceData":{},"rawData":"ФИО: Панов Дмитрий Александрович. Дата рождения: 06.06.1973. Email: mail@mailll.ru. Сумма: 100000. Регион: Московская обл.. Город: Москва","partnerLeadId":"2640572","partnerWebmasterId":"404","phone":"79629262376"}
+RESPONSE: {"status":"success","inboxLeadId":445174}
